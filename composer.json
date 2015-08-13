@@ -1,0 +1,12 @@
+{
+  "name": "alipek/rtf2html",
+  "description": "Crate html from rtf and back",
+  "minimum-stability": "dev",
+  "license": "GPL v3",
+  "authors": [
+    {
+      "name": "Josh Ribakoff, Andrzej Lipka",
+      "email": "contact@lcode.eu"
+    }
+  ]
+}
