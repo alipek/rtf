@@ -8,5 +8,10 @@
       "name": "Josh Ribakoff, Andrzej Lipka",
       "email": "contact@lcode.eu"
     }
-  ]
+  ],
+  "autoload": {
+    "classmap": [
+        ""
+    ]
+  }
 }
